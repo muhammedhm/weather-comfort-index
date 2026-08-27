@@ -1,10 +1,6 @@
 """
 Custom Comfort Index Score (0-100).
 
-This is the part you MUST be able to defend and modify live, so read this
-file carefully rather than just running it - you'll be re-deriving a piece
-of this logic on camera.
-
 Parameters used (4, satisfies the "at least three" requirement):
   - Temperature (deg C)   weight 0.40
   - Humidity (%)          weight 0.25
