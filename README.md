@@ -59,7 +59,7 @@ Sign up at https://auth0.com if you don't already have a tenant.
 ### 2.5 Whitelist specific users
 Since public signup is off, create users manually:
 - Dashboard → User Management → Users → Create User
-- Add the required test user:
+- Added the required test user:
   - Email: `careers@fidenz.com`
   - Password: `MC7VR!Nnjjc9zWE` (the passoword given was already being used and was being rejected by Auth0 platform)
 - Add yourself too, so you can log in for the recording.
