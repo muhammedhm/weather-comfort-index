@@ -1,4 +1,4 @@
-# Fidenz Weather Comfort Index — Full Stack Assignment
+# Fidenz Weather Comfort Index — Full Stack App
 
 A weather analytics dashboard: FastAPI backend (OpenWeatherMap + a custom
 Comfort Index + server-side caching + an Auth0-protected API) and a React
